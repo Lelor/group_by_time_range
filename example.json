@@ -1,0 +1,70 @@
+
+[
+    {
+      "user": "U0MFNAG05",
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1471110885.000002",
+      "text": "<@U0MFNAG05> has joined the channel"
+    },
+    {
+      "user": "U0KK0T3CG",
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1471110885.000003",
+      "text": "<@U0KK0T3CG> has joined the channel",
+      "inviter": "U0MFNAG05"
+    },
+    {
+      "user": "U0MFNAG05",
+      "type": "message",
+      "subtype": "channel_purpose",
+      "ts": "1471110886.000004",
+      "text": "<@U0MFNAG05> set the channel purpose: Discussion about all physics project related stuff",
+      "purpose": "Discussion about all physics project related stuff"
+    },
+    {
+      "user": "U1ZQR43RB",
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1471110886.000005",
+      "text": "<@U1ZQR43RB> has joined the channel",
+      "inviter": "U0MFNAG05"
+    },
+    {
+      "type": "message",
+      "text": "Hong, let\u2019s move our discussion here",
+      "user": "U0MFNAG05",
+      "ts": "1471110895.000006"
+    },
+    {
+      "type": "message",
+      "text": "Ok no problem",
+      "user": "U1ZQR43RB",
+      "ts": "1471110943.000007"
+    },
+    {
+      "type": "message",
+      "text": "This channel is being imported from the #physics_consulting channel. It may be used while the import is going on, and I'll let you know here when it completes.",
+      "user": "USLACKBOT",
+      "ts": "1471111019.937810"
+    },
+    {
+      "type": "message",
+      "text": "<!channel>: The import of this channel from the #physics_consulting channel is complete.",
+      "user": "USLACKBOT",
+      "ts": "1471111020.000006"
+    },
+    {
+      "type": "message",
+      "text": "new link to google doc resent",
+      "user": "U1ZQR43RB",
+      "ts": "1471111282.000007"
+    },
+    {
+      "type": "message",
+      "text": "just post it to this channel",
+      "user": "U0MFNAG05",
+      "ts": "1471111300.000008"
+    }
+  ]
